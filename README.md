@@ -7,12 +7,12 @@ Order food from the menu
 Sign Up to place order
 Pay online using your credit card
 ## Front-end Thechnology :
-React.js
-Bootstrap4
+React.js, 
+Bootstrap4, 
 CSS3
 ## Backend Technology
-Node.js
-Express.js
-MongoDB
-Firebase Athuentication
+Node.js, 
+Express.js, 
+MongoDB, 
+Firebase Athuentication, 
 Stripe.js
